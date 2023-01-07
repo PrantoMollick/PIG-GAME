@@ -4,7 +4,7 @@ Using Javascript, css, html
 
 ## Webpage Link of this game
 
-- [@Pig-Game-html-css-js](https://prantomollick.github.io/modal-javascript/)
+- [@Pig-Game-html-css-js](https://prantomollick.github.io/PIG-GAME/)
 
 ## Screenshots
 
