@@ -4,8 +4,8 @@ Using Javascript, css, html
 
 ## Webpage Link of this game
 
-- [@Modal-html-css-js](https://prantomollick.github.io/modal-javascript/)
+- [@Pig-Game-html-css-js](https://prantomollick.github.io/modal-javascript/)
 
 ## Screenshots
 
-![App Screenshot](modal-app-screenshot.png)
+![App Screenshot](pig-app-screenshot.png)
